@@ -1,0 +1,30 @@
+.input-container{
+    background-color: white;
+    height: 2vh;
+    width: 80vw;
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem  rgba(0, 0, 0, 0.329);
+    margin-top: -60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+
+}
+
+.input-box{
+    width: 60vw;
+    height: 4vh;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+.addButton{
+    width: 100px;
+    height: 6vh;
+    background-color: #5AC99E;
+    color: white;
+    font-size: 20px;
+    border: none;
+
+}

@@ -1,0 +1,35 @@
+.todolist-container{
+
+    height: 45vh;
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem  rgba(0, 0, 0, 0.329);
+    width: 80vw;
+    border-radius: 0.2rem;
+    padding: 2rem;
+    margin-top: 40px;
+  
+
+   
+}
+
+.todos-container{
+    height: 33vh;
+    overflow: auto;
+}
+
+.todo-footer{
+    margin-top: 60px;
+}
+
+.todo-item {
+    border-bottom: 0.1rem solid #cecece;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 3px;
+    color: gray;
+    padding-bottom: 20px;
+}
+
+.todo-done {
+    text-decoration: line-through;
+    color: #cecece;
+}

@@ -1,0 +1,7 @@
+.follower-container{
+    height: 60vh;
+    width: 80vw;
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.329);
+    margin-top: -40px;
+    background-color: white;
+}

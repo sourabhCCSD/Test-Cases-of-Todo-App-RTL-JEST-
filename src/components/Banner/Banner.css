@@ -1,0 +1,9 @@
+.banner {
+    background-image: linear-gradient(to right, rgba(54, 214, 62, 0.794), rgba(53, 201, 157, 0.794), rgba(32, 155, 212, 0.794)), url('../../assets//wave.jpeg');
+    height: 35vh;
+}
+
+.banner-img{
+    height: 100%;
+    width: 100%;
+}
